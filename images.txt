@@ -1,1 +1,2 @@
 sharelatex/sharelatex:4.0.5
+mongo:4.4

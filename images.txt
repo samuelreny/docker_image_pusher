@@ -2,3 +2,4 @@ sharelatex/sharelatex:4.0.5
 mongo:4.4
 80x86/typecho:latest
 freesurfer/freesurfer:7.4.1
+hcp4715/hddm
